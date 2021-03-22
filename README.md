@@ -12,4 +12,4 @@
 - A Detection Zone connected via a Relay can turn on the Programming Board and the Screen,
 and turn it off again when player leaves the detection zone.
 
-![alt text](https://github.com/Dahvram/DUMaterialsMonitor/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Dahvram/DUMaterialsMonitor/blob/main/Screenshot.png?raw=true)
