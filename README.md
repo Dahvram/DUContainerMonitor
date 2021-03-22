@@ -1,5 +1,6 @@
 # DUMaterialsMonitor
-- Copy the file DUMaterialsMonitor.config and paste ti to a Programming Board.
+- Click on the file DUMaterialsMonitor.config and then select the raw tab. Select the config
+source and then within Dual Universe paste it to a Programming Board.
 - Add a medium Screen by linking from the Probramming Board to the Screen.
 - Add up to 6 containers.
 - Open the lua script in the editor.
@@ -13,3 +14,5 @@
 and turn it off again when player leaves the detection zone.
 
 ![alt text](https://github.com/Dahvram/DUMaterialsMonitor/blob/main/Screenshot.png?raw=true)
+
+Send and questions or recomendations to me at my email address or discord id.
