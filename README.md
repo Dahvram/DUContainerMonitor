@@ -1,17 +1,11 @@
-# DUMaterialsMonitor
-- Click on the file DUMaterialsMonitor.config and then select the raw tab. Select the config
+# DUContainerMonitor
+- Click on the file DUContainerMonitor.config and then select the raw tab. Select the config
 source and then within Dual Universe paste it to a Programming Board.
 - Add a medium Screen by linking from the Probramming Board to the Screen.
 - Add up to 6 containers.
-- Open the lua script in the editor.
-- Rename the slot for the screen to screen
-- Each container slot must be named mat1 - mat6
-- Update Lua Parameters with the Screen title, material names, and your max container volumes
-- NOTE: This script should run under a tick filter named "Live"
-- NOTE: The "Live" tick filter should be initialized in unit.start()
+- Edit the lua parameters, set the screen title, set the screen id, set the names, ids and other properties for each container.
 
-- A Detection Zone connected via a Relay can turn on the Programming Board and the Screen,
-and turn it off again when player leaves the detection zone.
+- A Detection Zone connected to the programming board can turn on the Programming Board and turn it off again when player leaves the detection zone.
 
 ![alt text](https://github.com/Dahvram/DUMaterialsMonitor/blob/main/Screenshot.png?raw=true)
 
